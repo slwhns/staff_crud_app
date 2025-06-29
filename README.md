@@ -7,6 +7,7 @@ LAB TITLE: Building a CRUD Application Using Firebase (INDIVIDUAL)
 Name: Nor Salwa Hanis Binto Bahar Fadzilah
 Matrix Number: D20221101821
 Group: B
+<<<<<<< HEAD
 
 ## 📸 Screenshots
 
@@ -18,3 +19,5 @@ Group: B
 
 ### ➕ Edit Staff Page
 ![Edit Staff](assets/edit_page.png)
+=======
+>>>>>>> 1345d22a372c010eba642102396d3daca690eed9
