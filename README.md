@@ -19,5 +19,8 @@ Group: B
 
 ### ➕ Edit Staff Page
 ![Edit Staff](assets/edit_page.jpg)
+<<<<<<< HEAD
 =======
 >>>>>>> 1345d22a372c010eba642102396d3daca690eed9
+=======
+>>>>>>> 108c9ad0c118a5bd4392c43dd2cad826fb166ccb
